@@ -1,0 +1,8 @@
+{
+  "name": "L'Amour Boutique - 高端亲密康养精品店",
+  "description": "一个精致优雅的亲密康养电商平台，提供 AI 驱动的私人购物助理、私密导航及高端产品策划。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
